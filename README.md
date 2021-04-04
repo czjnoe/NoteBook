@@ -1,12 +1,10 @@
-
-::: hljs-left
-
 ::: hljs-right
 
-居左
+发的方法的
 
-:::
+:::```language
+
+```
 
 
-:::
 
